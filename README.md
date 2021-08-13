@@ -1,2 +1,2 @@
 # cses-solutions
-CSES problemset solutions in Go!
+[CSES problemset](https://cses.fi/problemset/list/) solutions in Go!
